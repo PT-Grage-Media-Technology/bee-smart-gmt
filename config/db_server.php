@@ -1,1 +1,1 @@
-<?php $db_server="beesmartv3_rev3";
+<?php $db_server="u610515881_cbtgmt";

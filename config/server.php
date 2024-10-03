@@ -12,9 +12,9 @@ if ($db_server==""){
 	$db=$teks3;
 }else{$db=$db_server;}
 
-$db_host = "localhost:3306";
-$db_user="root";
-$db_pass="";
+$db_host = "153.92.15.8";
+$db_user="u610515881_cbtgmt";
+$db_pass="CbtGmt@1";
 
 // 1. Connect ke database
 $sqlconn=@mysql_connect($db_host,$db_user,$db_pass);
